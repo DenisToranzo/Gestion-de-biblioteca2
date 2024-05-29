@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PARCIALES\\P-IV\\Restaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F15B4220-586B-4EC1-864C-C2121D506FD8}|Restaurante\\Restaurante.csproj|e:\\parciales\\p-iv\\restaurante\\restaurante\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F15B4220-586B-4EC1-864C-C2121D506FD8}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15B4220-586B-4EC1-864C-C2121D506FD8}|Restaurante\\Restaurante.csproj|e:\\parciales\\p-iv\\restaurante\\restaurante\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F15B4220-586B-4EC1-864C-C2121D506FD8}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15B4220-586B-4EC1-864C-C2121D506FD8}|Restaurante\\Restaurante.csproj|e:\\parciales\\p-iv\\restaurante\\restaurante\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F15B4220-586B-4EC1-864C-C2121D506FD8}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15B4220-586B-4EC1-864C-C2121D506FD8}|Restaurante\\Restaurante.csproj|e:\\parciales\\p-iv\\restaurante\\restaurante\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15B4220-586B-4EC1-864C-C2121D506FD8}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\PARCIALES\\P-IV\\Restaurante\\Restaurante\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Restaurante\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "E:\\PARCIALES\\P-IV\\Restaurante\\Restaurante\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "Restaurante\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T00:36:56.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "E:\\PARCIALES\\P-IV\\Restaurante\\Restaurante\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "Restaurante\\Views\\Inicio\\Registrarse.cshtml",
+              "ToolTip": "E:\\PARCIALES\\P-IV\\Restaurante\\Restaurante\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeToolTip": "Restaurante\\Views\\Inicio\\Registrarse.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACwAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T00:35:21.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IniciarSesion.cshtml",
+              "DocumentMoniker": "E:\\PARCIALES\\P-IV\\Restaurante\\Restaurante\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeDocumentMoniker": "Restaurante\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ToolTip": "E:\\PARCIALES\\P-IV\\Restaurante\\Restaurante\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeToolTip": "Restaurante\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T00:35:12.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "E:\\PARCIALES\\P-IV\\Restaurante\\Restaurante\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Controllers\\InicioController.cs",
+              "ToolTip": "E:\\PARCIALES\\P-IV\\Restaurante\\Restaurante\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "Restaurante\\Controllers\\InicioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:32:36.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
